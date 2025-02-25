@@ -16,6 +16,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Dan Built This (In America)
+          Buy Bitcoin,
+          Buy XRP,
+          Buy RCO Finance,
+          Diamond Hands,
+          Reject societal norms
         </a>
       </header>
     </div>
