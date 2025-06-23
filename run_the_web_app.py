@@ -34,7 +34,7 @@ def start_servers():
     return backend_process, frontend_process
 
 def main():
-    project_path = "C:\\Python Projects\\webpage\\web-app"
+    project_path = "ENTER THE PROJECT PATH HERE"
 
     # Change to the project directory
     print(f"Changing directory to: {project_path}")
